@@ -13,7 +13,7 @@ import AndroidLandingScreen from './src/screens/landing/AndroidLandingScreen';
 
 const Stack = createStackNavigator();
 
-///
+/////
 export default function App() {
   // const isAuthenticated = useSelector((state) => state.auth.isAuthenticated);
   const isAuthenticated = false;
